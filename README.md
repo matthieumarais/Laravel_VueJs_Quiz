@@ -30,7 +30,7 @@ Création de questionnaires dynamiques :
 
 ##### 3. Executer `npm install` ou `yarn` pour télécharger les dépendances JS.
 
-##### 4. Ouvrir le fichier .env pour configurer vos identifiants de base de données & SMTP
+##### 4. Copier/coller .env.example et le renommer en .env. Ouvrir le fichier .env pour configurer vos identifiants de base de données & SMTP. Votre compte mail doit être configuré (exemple pour gmail: https://www.webimmosoft.com/forum/configurer-votre-adresse-email/envoyer-un-email-par-smtp-avec-gmail/)
 
 ##### 5. Executer `php artisan key:generate` depuis votre terminal
 
